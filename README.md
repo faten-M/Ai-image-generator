@@ -10,7 +10,14 @@ Example:
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- AI Image Generation API (future integration)
+• HTML5
+• CSS3
+• JavaScript
+• OpenAI API
+
+## Features
+
+ • Text prompt input
+ • AI image generation
+ • Multiple image generation
+ • Image preview
